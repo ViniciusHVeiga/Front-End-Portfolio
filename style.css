@@ -582,7 +582,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #fff;
+    color: white;
     border-radius: .3rem;
     box-shadow:  0 0.1rem 0.6rem #00000009;
   }
